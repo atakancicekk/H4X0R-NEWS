@@ -12,10 +12,7 @@ My first project built using Swift UI.
 
 <br>
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-01-11 at 22 13 00]()
-
-
-<img src="https://user-images.githubusercontent.com/55702254/211896910-9fda852a-40d4-4e09-a7da-8eefbc6727c4.png" width="120">
+<img src="https://user-images.githubusercontent.com/55702254/211896910-9fda852a-40d4-4e09-a7da-8eefbc6727c4.png" width="400">
 
 
 
