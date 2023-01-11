@@ -5,16 +5,14 @@
 
 #  H4XOR NEWS
 
-App that i built from scratch using the Model View Controller (MVC) pattern. I built a useful check calculation app.
-Simply enter the amount, tip percentage that you want to tip and the total person count. The app will calculate how much a person must pay !
+Get the latest tech news around the world !
+My first project built using Swift UI.
 
 
 
 <br>
 
-![2019-09-17_15-56-14-a024a9c37606ff9c8d5f5b88993b47db (1)](https://user-images.githubusercontent.com/55702254/193810678-bf69d551-3470-4838-9ad9-850e2844752e.gif)
-
-
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-11 at 22 13 00](https://user-images.githubusercontent.com/55702254/211896910-9fda852a-40d4-4e09-a7da-8eefbc6727c4.png)
 
 
 <br>
